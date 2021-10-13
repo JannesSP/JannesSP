@@ -15,12 +15,10 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]
 
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JannesSP&show_icons=true&hide_border=true" />
+  <img align="left" alt="JannesSO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JannesSP&show_icons=true&hide_border=true" />
 
 </details>
 
