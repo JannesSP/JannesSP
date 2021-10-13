@@ -8,6 +8,7 @@
 
 <br />
 <br />
+
 ***
 
 ### Languages and Tools
@@ -19,6 +20,7 @@
 
 <br />
 <br />
+
 ***
 
 [![JannesSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannesSP&theme=dark&count_private=true&show_icons=true)
