@@ -7,6 +7,8 @@
 [<img align="left" alt="jannessp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
+<br />
 
 ### Languages and Tools
 
@@ -16,15 +18,11 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 <br />
+---
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="JannesSO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JannesSP&show_icons=true&hide_border=true" />
-
-</details>
-
+[![JannesSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannesSP&theme=dark&count_private=true&show_icons=true)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 [Jannes Spangenberg]:https://jannessp.github.io
 [twitter]:https://twitter.com/Ja_Spangenberg
