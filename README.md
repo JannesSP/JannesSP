@@ -18,11 +18,12 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 <br />
----
 <br />
 
+***
+
 [![JannesSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannesSP&theme=dark&count_private=true&show_icons=true)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
 
 [Jannes Spangenberg]:https://jannessp.github.io
 [twitter]:https://twitter.com/Ja_Spangenberg
