@@ -1,6 +1,7 @@
 ### Hello World, my name is [Jannes Spangenberg] 👋
 
-
+### Connect with me:
+[<img align="left" alt="jannessp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Jannes Spangenberg]
 
 <!--
 **JannesSP/JannesSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
