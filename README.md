@@ -16,6 +16,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
