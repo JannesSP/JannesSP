@@ -28,4 +28,4 @@
 
 [Jannes Spangenberg]:https://jannessp.github.io
 [twitter]:https://twitter.com/Ja_Spangenberg
-[instagram]:https://twitter.com/Ja_Spangenberg
+[instagram]:https://instagram.com/jannes_sp
