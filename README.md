@@ -6,13 +6,6 @@
 [<img align="left" alt="jannessp | Twitter" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="jannessp | Instagram" width="100px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />][instagram]
 
-<br />
-<br />
-<br />
-<br />
-
----
-
 ### Languages and Tools
 
 <img align="left" alt="Linux" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
@@ -25,11 +18,12 @@
 <img align="left" alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
 <br />
-<br />
-<br />
+
 <br />
 
----
+<br />
+
+<br />
 
 [![JannesSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannesSP&theme=dark&count_private=true&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
