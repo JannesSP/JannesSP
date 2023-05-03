@@ -2,9 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jannessp.github.io" width="100px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Jannes Spangenberg]
+[<img align="left" alt="jannessp.github.io" width="100px" src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/news.svg" />][Jannes Spangenberg]
 [<img align="left" alt="jannessp | Twitter" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="jannessp | Instagram" width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jannessp | Instagram" width="100px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -16,7 +16,7 @@
 ### Languages and Tools
 
 <img align="left" alt="Linux" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg" />
 <img align="left" alt="vscode" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="Conda" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" />
 <img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
