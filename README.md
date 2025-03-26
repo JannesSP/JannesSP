@@ -2,7 +2,7 @@
 
 ## Projects & tools from or with me
 
-- Tools to analyse Oxford Nanopore Technologies data
+- Tools to analyze Oxford Nanopore Technologies data
     - RNA modification detection
         - [Magnipore](https://github.com/JannesSP/magnipore)
     - File IO
@@ -10,6 +10,8 @@
         - [Read5_ont](https://github.com/JannesSP/read5_ont)
     - Signal simulation
         - [ont_simsig](https://github.com/JannesSP/ont_simsig)
+    - Signal segmentation/alignment
+        - [Dynamont](https://github.com/JannesSP/dynamont)
 - Code to work with sequencing data in general
     - [FastXscripts](https://github.com/JannesSP/FastXScripts)
 - Others
