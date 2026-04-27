@@ -1,52 +1,72 @@
-# Hello World, my name is [Jannes Spangenberg] 👋
+# Jannes Spangenberg
 
-## Projects & tools from or with me
+<p align="center">
+  <strong>Scientific Software Engineer • Data Scientist • Bioinformatics PhD</strong><br />
+  Building production-minded open-source tooling for sequencing data, signal processing, and reproducible research software.
+</p>
 
-- Tools to analyze Oxford Nanopore Technologies data
-    - RNA modification detection
-        - [Magnipore](https://github.com/JannesSP/magnipore)
-    - File IO
-        - [Read5](https://github.com/JannesSP/read5)
-        - [Read5_ont](https://github.com/JannesSP/read5_ont)
-    - Signal simulation
-        - [ont_simsig](https://github.com/JannesSP/ont_simsig)
-    - Signal segmentation/alignment
-        - [Dynamont](https://github.com/JannesSP/dynamont)
-- Code to work with sequencing data in general
-    - [FastXscripts](https://github.com/JannesSP/FastXScripts)
-- Others
-    - [Logger](https://github.com/JannesSP/Logger)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jannes-spangenberg/">
+    <img src="https://img.shields.io/badge/LinkedIn-jannes--spangenberg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.xing.com/profile/Jannes_Spangenberg/">
+    <img src="https://img.shields.io/badge/XING-Jannes__Spangenberg-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING" />
+  </a>
+</p>
 
-## [My anaconda channel](https://anaconda.org/JannesSP)
+## What I build
 
-## Connect with me:
+I develop software for noisy, high-volume biological data with a focus on:
 
-[<img align="left" alt="jannessp.github.io" width="75px" src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/news.svg" />][Jannes Spangenberg]
-[<img align="left" alt="jannessp | Twitter" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="jannessp | Instagram" width="75px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />][instagram] <br />
+- Python and C++ tooling for real-world sequencing workflows
+- signal processing, AI, DNNs, HMMs, benchmarking, and model validation
+- maintainable packaging, testing, documentation, and reproducible delivery
+- turning research-grade methods into software other people can install and use
 
-<br />
-<br />
+## Featured repositories
 
-## Languages and Tools
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Dynamont</h3>
+      <p>
+        A segmentation and resquiggling tool for Oxford Nanopore raw signals, combining dynamic programming, HMM-style modeling, C++ performance, Python packaging, tested models, and documented CLI workflows.
+      </p>
+      <p>
+        Highlights: C++/Python codebase, PyPI and Conda distribution, DOI/CITATION metadata, releases, tests, and reusable default pore models.
+      </p>
+      <a href="https://github.com/rnajena/dynamont">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnajena&repo=dynamont&show_owner=true&theme=transparent&hide_border=true&border_radius=12" alt="Dynamont repo card" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Read5</h3>
+      <p>
+        A unified Python wrapper for reading FAST5, SLOW5, BLOW5, and POD5 files through one consistent interface, with documentation, packaging, tests, and practical usability for nanopore analysis workflows.
+      </p>
+      <p>
+        Highlights: multi-format abstraction, PyPI and Conda packaging, full docs, releases, DOI/CITATION metadata, and production-style library design.
+      </p>
+      <a href="https://github.com/rnajena/read5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnajena&repo=read5&show_owner=true&theme=transparent&hide_border=true&border_radius=12" alt="Read5 repo card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img align="left" alt="Linux" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="75px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg" />
-<img align="left" alt="vscode" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="Conda" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" />
-<img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="C++" width="75px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="MySQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/><br />
+## GitHub activity
 
-<br />
-<br />
-<br />
-<br />
+<p align="center">
+  <a href="https://github.com/JannesSP">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JannesSP&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12" alt="GitHub stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.demolab.com?user=JannesSP&theme=transparent&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  </a>
+</p>
 
-[![JannesSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannesSP&theme=dark&count_private=true&show_icons=true)
-](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[Jannes Spangenberg]:https://jannessp.github.io
-[twitter]:https://twitter.com/Ja_Spangenberg
-[instagram]:https://instagram.com/jannes_sp
+<p align="center">
+  If you are hiring for data science, machine learning, or scientific software roles, the best examples of how I work are <a href="https://github.com/rnajena/dynamont">Dynamont</a> and <a href="https://github.com/rnajena/read5">Read5</a>.
+</p>
