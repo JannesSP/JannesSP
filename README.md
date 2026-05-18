@@ -36,7 +36,7 @@ I develop software for noisy, high-volume biological data with a focus on:
         Highlights: C++/Python codebase, PyPI and Conda distribution, DOI/CITATION metadata, releases, tests, and reusable default pore models.
       </p>
       <a href="https://github.com/rnajena/dynamont">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnajena&repo=dynamont&show_owner=true&theme=transparent&hide_border=true&border_radius=12" alt="Dynamont repo card" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rnajena&repo=dynamont&show_owner=true&theme=transparent&hide_border=true&border_radius=12" alt="Dynamont repo card" />
       </a>
     </td>
     <td valign="top" width="50%">
@@ -48,7 +48,7 @@ I develop software for noisy, high-volume biological data with a focus on:
         Highlights: multi-format abstraction, PyPI and Conda packaging, full docs, releases, DOI/CITATION metadata, and production-style library design.
       </p>
       <a href="https://github.com/rnajena/read5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnajena&repo=read5&show_owner=true&theme=transparent&hide_border=true&border_radius=12" alt="Read5 repo card" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=rnajena&repo=read5&show_owner=true&theme=transparent&hide_border=true&border_radius=12" alt="Read5 repo card" />
       </a>
     </td>
   </tr>
@@ -58,10 +58,10 @@ I develop software for noisy, high-volume biological data with a focus on:
 
 <p align="center">
   <a href="https://github.com/JannesSP">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JannesSP&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=JannesSP&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12" alt="GitHub stats" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com?user=JannesSP&theme=transparent&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JannesSP&theme=transparent" alt="GitHub streak" />
   </a>
 </p>
 
